@@ -75,6 +75,9 @@ flowchart LR
 * mAP@50 ≈ 0.35
 * mAP@50–95 ≈ 0.22
 
+<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/92665985-8a37-4331-bf0a-a92e9eae88e5" />
+
+
 **Tracking**
 
 * Stable tracking IDs across most scenes
@@ -85,6 +88,8 @@ flowchart LR
 * ~12 FPS on Ryzen CPU
 * Resolution: 384×640
 * `vid_stride=2` used to balance speed and temporal consistency
+
+<img width="1920" height="1098" alt="image" src="https://github.com/user-attachments/assets/c7b04f93-66ba-4ad4-baa5-50f4b76c2c75" />
 
 ---
 
