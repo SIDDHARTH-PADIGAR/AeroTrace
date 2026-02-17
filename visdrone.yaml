@@ -1,0 +1,10 @@
+path: data/visdrone
+train: images/train
+val: images/val
+
+names:
+  0: pedestrian
+  1: car
+  2: van
+  3: truck
+  4: bus

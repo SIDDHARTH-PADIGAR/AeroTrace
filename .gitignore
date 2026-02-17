@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Ultralytics / YOLO
+runs/
+yolo_settings.json
+
+# Datasets
+data/visdrone/raw/
+data/**/*.mp4
+data/**/*.avi
+data/**/*.mov
+
+# Outputs
+outputs/
+*.mp4
+*.avi
+
+# Weights
+*.pt
+*.onnx
+
+# Logs
+*.log
+
+# Temporary
+tmp/
